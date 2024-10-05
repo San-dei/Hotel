@@ -1,0 +1,135 @@
+.searchHotel_container{
+  padding-top: 3rem;
+  height: 100vh;
+  width: 100vw;
+  background-color: var(--color-secundario);
+}
+
+.searchHotel_container_presentation{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.searchHotel_title{
+  color: var(--color-cuaternario);
+  font-size: 26px;
+  font-weight: 700;
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.searchHotel_description{
+  display: none;
+}
+
+.searchHotel_container_filter{
+  position: relative;
+  color: var(--color-cuaternario);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.searchHotel_filter{
+  height: 64vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.searchHotel_filter_item{
+  margin-bottom: 2rem;
+}
+
+.searchHotel_input{ 
+  padding-left: 30px;
+  width: 90vw;
+  height: 2rem;
+  border-radius: 5px;
+  background-color: var(--color-secundario);
+  border: 1px solid var(--color-ternario);
+}
+
+.searchHotel_reacticon_map{
+  margin-left: 2px;
+  margin-top: 4px;
+  display: flex;
+  align-items: center;
+  position: absolute;
+  top: 50;
+  left: 10;
+  height: 1.5rem;
+  width: 1.5rem;
+}
+
+.searchHotel_filter_item_date{
+  width: 90vw;
+}
+
+.searchHotel_conteiner_date{
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+.searchHotel_dates{
+  margin: .4rem;
+
+}
+
+.searchHotel_button_date{
+  cursor: pointer;
+  color: var(--color-cuaternario);
+  border-radius: 5px;
+  background-color: transparent;
+  border: 1px solid var(--color-ternario);
+  height: 1.7rem;
+  width: 7.5rem;
+}
+
+.searchHotel_button{
+  cursor: pointer;
+  width: 90vw;
+  height: 2rem;
+  border-radius: 5px;
+  background-color: transparent;
+  color: var(--color-cuaternario);
+  border: 1px solid var(--color-ternario);
+}
+
+.searchHotel_button_search{
+  margin-top: 1rem;
+  border: 1px solid var(--color-secundario);
+  background-color: var(--color-cuaternario);
+  color: var(--color-primario);
+  border-radius: 5px;
+  cursor: pointer;
+  height: 2.9rem;
+  width: 9rem;
+}
+
+.searchHotel_extra_options{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+}
+
+.searchHotel_check{
+  height: 1.1rem;
+  width: 1.1rem;
+  margin-right: .5rem;
+  cursor: pointer;
+}
+
+.searchHotel_discount{
+  padding: 2px;
+  color: var(--color-primario);
+  border-radius: 4px;
+  background-color: rgb(89, 138, 40);
+  margin-left: .5rem;
+}
+

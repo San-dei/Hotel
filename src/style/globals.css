@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  outline: 1px solid red;
+}
+
+:root {
+  --color-primario: #f3eeea;
+  --color-secundario: #ebe3d5;
+  --color-ternario: #b0a695;
+  --color-cuaternario: #776b5d;
+
+  --color-fuente-clara: #fff;
+  --color-fuente-oscura: #3f3f3f;
+}

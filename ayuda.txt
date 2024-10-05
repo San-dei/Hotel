@@ -1,0 +1,56 @@
+Metadata:
+
+GET Exchange rates: Obtiene las tasas de cambio de divisas.
+Hotels:
+
+GET Search hotels by coordinates: Busca hoteles por coordenadas geográficas.
+GET Hotel on the map: Obtiene información de un hotel específico en el mapa.
+GET Nearby places of the hotel: Obtiene lugares cercanos a un hotel.
+GET Tips of the hotel: Obtiene consejos o recomendaciones sobre un hotel.
+GET Payment features of the hotel: Obtiene información sobre las características de pago de un hotel.
+GET Nearby cities: Obtiene ciudades cercanas a un hotel.
+GET Policies of the hotel: Obtiene las políticas de un hotel.
+GET Reviews of the hotel: Obtiene reseñas de un hotel.
+GET Reviews metadata of the hotel: Obtiene metadatos de las reseñas de un hotel.
+GET Facilities of the hotel: Obtiene información sobre las instalaciones de un hotel.
+GET Hotel data: Obtiene datos generales de un hotel.
+GET Review scores of the hotel: Obtiene puntuaciones de reseñas de un hotel.
+GET Hotel children pol icy: Obtiene la política de niños de un hotel.
+GET Filters for search: Obtiene filtros disponibles para la búsqueda de hoteles.
+GET Questions about the hotel: Obtiene preguntas frecuentes sobre un hotel.
+GET Location highlights of the hotel: Obtiene aspectos destacados de la ubicación de un hotel.
+GET Description of the hotel: Obtiene la descripción de un hotel.
+GET Room list of the hotel: Obtiene la lista de habitaciones de un hotel.
+GET Search locations: Busca ubicaciones relacionadas con hoteles.
+GET Photos of the hotel: Obtiene fotos de un hotel.
+GET Search hotels: Realiza una búsqueda general de hoteles.
+Car Rental:
+
+GET Important information: Obtiene información importante sobre el alquiler de automóviles.
+GET Reviews about the supplier of vehicles: Obtiene reseñas sobre el proveedor de vehículos.
+GET Vehicle supplier details: Obtiene detalles del proveedor de vehículos.
+GET Search car rental: Realiza una búsqueda de alquiler de automóviles.
+GET Search cars locations: Busca ubicaciones relacionadas con el alquiler de automóviles.
+GET Car rental details: Obtiene detalles sobre un alquiler de automóvil específico.
+GET Rental extras: Obtiene extras disponibles para el alquiler de automóviles.
+GET Rental terms: Obtiene términos y condiciones del alquiler de automóviles.
+Hotels V2:
+
+GET Search hotels by coordinates: Busca hoteles por coordenadas geográficas (versión 2).
+GET Meta Properties description: Obtiene la descripción de las propiedades meta de los hoteles.
+GET Filters for search: Obtiene filtros disponibles para la búsqueda de hoteles (versión 2).
+GET Hotels Search: Realiza una búsqueda general de hoteles (versión 2).
+GET Hotels Details: Obtiene detalles de un hotel específico.
+GET Description of the hotel: Obtiene la descripción de un hotel (versión 2).
+GET Calendar pricing: Obtiene precios de un hotel según un calendario.
+Static:
+
+GET List of Countries: Obtiene una lista de países.
+GET List of Room facility types: Obtiene una lista de tipos de instalaciones de habitaciones.
+GET List of Hotels: Obtiene una lista de hoteles.
+GET List of Hotel types: Obtiene una lista de tipos de hoteles.
+GET List of Room types: Obtiene una lista de tipos de habitaciones.
+GET List of Hotel chains: Obtiene una lista de cadenas hoteleras.
+GET List of Districts: Obtiene una lista de distritos.
+GET List of Payment types: Obtiene una lista de tipos de pago.
+GET List of Cities: Obtiene una lista

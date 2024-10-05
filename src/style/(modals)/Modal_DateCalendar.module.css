@@ -1,0 +1,13 @@
+.Modal_conteiner{
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 75vh;
+  width: 100%;
+  background-color: var(--color-ternario);
+}
+
+.Modal_calendar{
+  margin-top: .8rem;
+  text-align: center;
+}
